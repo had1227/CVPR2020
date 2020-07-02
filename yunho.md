@@ -6,10 +6,10 @@
     - Significantly improves data efficiency for real world robotic grasping
     
 - Overview
-    - ![semantic_map_overview](./img/RL-CycleGAN_overview.png)
+    - [semantic_map_overview](./img/RL-CycleGAN_overview.png)
     
 - Method
-    - ![semantic_map_network](./img/RL-CycleGAN_method.png)
+    - [semantic_map_network](./img/RL-CycleGAN_method.png)
     - Use RL-scene consistency loss
             
 ### SuperGlue: Learning Feature Matching With Graph Neural Networks
