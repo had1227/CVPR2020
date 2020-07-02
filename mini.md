@@ -14,7 +14,7 @@
         
 - Tasks and Benchmarks
     - Robotic Perception
-        ![Sapien-perception](./img/Sapien-Perception.PNG)
+        ![Sapien-perception](./img/Sapien-perception.PNG)
         ![Sapien-recognition](./img/Sapien-recognition.PNG)
     - Robotic Interaction
         ![Sapien-SAC](./img/Sapien-SAC.PNG)
@@ -37,5 +37,5 @@
     ![convnet-3d](./img/convnet-3d.PNG)
     - 2D correspondence estimation is detecting conic sections (circle, ellipse, parabola, hyperbola)
     ![convnet-2d_1](./img/convnet-2d_1.PNG)
-    ![convnet-2d](./img/convbet-2d.PNG)
+    ![convnet-2d](./img/convnet-2d.PNG)
  
