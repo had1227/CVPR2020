@@ -1,5 +1,5 @@
-### Predicting Semantic Map Representations From Images Using Pyramid Occupancy Networks
-- **Oral presentation** [(Video)](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/2361/2361-oral.mp4)
+### RL-CycleGAN: Reinforcement Learning Aware Simulation-to-Real
+- **Oral presentation** [(Video)](http://cvpr20.s3-website-us-west-2.amazonaws.com/CVPR20/CVPR20/9770/9770-oral.mp4)
 
 - Contributions
     - It proposed a method to generate birds-eye-view semantic map by monocular images
@@ -16,8 +16,8 @@
 - Results
     - ![semantic_map_results](./img/semantic_map_results.png)
 
-### Vision-Language Navigation With Self-Supervised Auxiliary Reasoning Tasks
-- **Oral presentation** [(Video)](http://d1tz9o43mm5y8k.cloudfront.net/CVPR20/CVPR20/4322/4322-oral.mp4)
+### SuperGlue: Learning Feature Matching With Graph Neural Networks
+- **Oral presentation** [(Video)](http://cvpr20.s3-website-us-west-2.amazonaws.com/CVPR20/CVPR20/7621/7621-oral.mp4)
 
 - Contributions
     - It proposed a method for vision-language navigation which solves auxiliary tasks to take advantage of the additional training signals derived from the semantic information.
