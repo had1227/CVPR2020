@@ -16,19 +16,15 @@
 - **Oral presentation** [(Video)](http://cvpr20.s3-website-us-west-2.amazonaws.com/CVPR20/CVPR20/7621/7621-oral.mp4)
 
 - Contributions
-    - It proposed a method for vision-language navigation which solves auxiliary tasks to take advantage of the additional training signals derived from the semantic information.
+    - Train a neural network that matches two sets of local features by jointlly aggregating contexts, matching, and filtering non-matchable points.
+    - Fast and robust
     
 - Overview
     - ![aux_RN_overview](./img/SuperGlue_overview.png)
 
 - Method
     - ![aux_RN_network](./img/SuperGlue_method.png)
-    - Auxiliary tasks
-        - Trajectory retelling 
-        - Progress estimation
-        - Cross-modal matching
-        - Angle predictions
-    - Graph map
-        - Jointly use imitation learning and reinforcement learning for the navigation
+    - Aggregates contexts with the self-attention (intra-image information flow) and cross-attention (inter-image information flow)
+    - Solve the optimal transport problem with a differentiable matching layer using the Sinkhorm algorithm
     
 
