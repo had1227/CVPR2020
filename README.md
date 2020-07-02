@@ -130,5 +130,10 @@
 ### Scene Analysis and Understanding
 1. Johanna Wald, Helisa Dhamo, Nassir Navab, Federico Tombari **Learning 3D Semantic Scene Graphs From 3D Indoor Reconstructions** [[Paper]](https://arxiv.org/pdf/2004.03967.pdf) - Jeongho
 
+2. Christopher Choy, Junha Lee, Rene Ranftl, Jaesik Park, Vladlen Koltun **High-dimensional Convolutional Networks for Geometric Pattern Recognition** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Choy_High-Dimensional_Convolutional_Networks_for_Geometric_Pattern_Recognition_CVPR_2020_paper.pdf) - Mini
+
 ### Imbalance Classification
 1. Xinyue Wang, Yilin Lyu, Liping Jing **Deep Generative Model for Robust Imbalance Classification** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Generative_Model_for_Robust_Imbalance_Classification_CVPR_2020_paper.pdf) - Dohyeong
+
+### Simulator
+1. Fanbo Xiang, Yuzhe Qin, Kaichun Mo, Yikuan Xia, Hao Zhu, Fangchen Liu, Minghua Liu, Hanxiao Jiang, Yifu Yuan, He Wang, Li Yi, Anger X. Chang, Leonidas Guibas, Hao Su **SAPIEN: A SimulAted Part-based Interactive ENvironment** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Xiang_SAPIEN_A_SimulAted_Part-Based_Interactive_ENvironment_CVPR_2020_paper.pdf) - Mini
