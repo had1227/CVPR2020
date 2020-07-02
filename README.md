@@ -17,6 +17,7 @@
   - [3D From a Single Image](#3d-from-a-single-image)
   - [Motion and Tracking](#motion-and-tracking)
   - [Trajectory Prediction](#trajectory-prediction)
+  - [Imbalance Classification](#imbalance-classification)
 
 
 ### Visual-Language Grounding:
@@ -128,3 +129,6 @@
 
 ### Scene Analysis and Understanding
 1. Johanna Wald, Helisa Dhamo, Nassir Navab, Federico Tombari **Learning 3D Semantic Scene Graphs From 3D Indoor Reconstructions** [[Paper]](https://arxiv.org/pdf/2004.03967.pdf) - Jeongho
+
+### Imbalance Classification
+1. Xinyue Wang, Yilin Lyu, Liping Jing **Deep Generative Model for Robust Imbalance Classification** [[Paper]](https://openaccess.thecvf.com/content_CVPR_2020/papers/Wang_Deep_Generative_Model_for_Robust_Imbalance_Classification_CVPR_2020_paper.pdf) - Dohyeong
