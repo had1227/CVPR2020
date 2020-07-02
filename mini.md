@@ -14,10 +14,10 @@
         
 - Tasks and Benchmarks
     - Robotic Perception
-        ![Sapien-perception](./img/Sapien-perception.PNG)
-        ![Sapien-recognition](./img/Sapien-recognition.PNG)
+    - ![Sapien-perception](./img/Sapien-perception.PNG)
+    - ![Sapien-recognition](./img/Sapien-recognition.PNG)
     - Robotic Interaction
-        ![Sapien-SAC](./img/Sapien-SAC.PNG)
+    - ![Sapien-SAC](./img/Sapien-SAC.PNG)
     
 ### High-dimensional Convolutional Networks for Geometric Pattern Recognition
 - **Oral presentation** [(Video)](http://cvpr20.s3-website-us-west-2.amazonaws.com/CVPR20/CVPR20/1831/1831-oral.mp4)
